@@ -45,7 +45,7 @@
   <a href="https://linkedin.com/in/priyamjain" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
   </a>
-  <a href="mailto:priyamjain@example.com">
+  <a href="mailto:priyamj1502@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" />
   </a>
   <a href="https://github.com/priyamjain" target="_blank">
