@@ -13,7 +13,7 @@
 
 - 🎓 First-year B.Tech CSE student  
 - 🔭 Currently building an AI-based career mentor app  
-- 🌱 Learning **Full Stack Dev**, **AI**, **Ethical Hacking**, and **DSA**  
+- 🌱 Learning **Full Stack Dev**, and **DSA**  
 
 
 ---
